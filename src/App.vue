@@ -67,7 +67,8 @@
       menu: [
         { title: 'Home', url:"/"},
         { title: 'View Posts', url:"/post-list"},
-        { title: 'Add New Post', url:"/post-create"},
+        { title: 'Movie Review', url:"/movie-list"},
+        { title: 'Book Review', url:"/book-list"},
       ]
     }),
 
